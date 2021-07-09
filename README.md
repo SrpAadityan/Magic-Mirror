@@ -30,12 +30,10 @@ sudo apt-get install python-imaging-tk
 
 ```
 `sudo apt-get install vim`
-
 ```
 
 ```
- vim smartmirror.py
- 
+ vim smartmirror.py 
 ```
 
 2. replace `weather_api_token` with your own custom api token
@@ -44,7 +42,6 @@ sudo apt-get install python-imaging-tk
 
 ```
 python smartmirror.py
-
 ```
 
 ## License
